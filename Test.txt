@@ -1,1 +1,8 @@
 Hello i'm testing
+3 commands
+1) git add:- contains two syntaxes i)git add -A
+				   ii)git add fileName(with extension Ex-Demo.txt)
+				   iii)git add(*)
+
+2) git commit:- -m "message"
+3) git push:- directly go to remote repository
